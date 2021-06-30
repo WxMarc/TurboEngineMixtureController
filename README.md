@@ -23,6 +23,10 @@ CAUTION:
 Successfully installing these controllers will require copying and pasting the files to the proper folders and updating 
 each airplane's panel.cfg and layout.json files. If you are not comfortable taking these steps, do not use this code. 
 
+These controllers are designed to work with a hardware axis (throttle quadrant, HOTAS with mixture axis, etc). If you do 
+not have a hardware mixture axis, or if you have automixture enabled in MSFS settings, this controller will not add much
+value to your experience.
+
 KNOWN ISSUES:
 The mixture lever displayed in the virtual cockpit will not reflect the mixture setting on your hardware axis. The virtual 
 cockpit lever displays the mixture setting in the sim, which the controller code calculates based on your hardware axis 
