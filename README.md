@@ -16,6 +16,9 @@ calculate a target fuel/air mixture based on the user's hardware mixture lever s
 manifold (rather than the ambient density). This allows the mixture to be managed according to the POH, setting mixture 
 at full-rich throughout the climb instead of leaning the mixture to maintain proper power.
 
+Please see the included instructions.pdf for detailed instructions on how to install the controllers for any of the three
+aircraft mentioned above.
+
 CAUTION: 
 Successfully installing these controllers will require copying and pasting the files to the proper folders and updating 
 each airplane's panel.cfg and layout.json files. If you are not comfortable taking these steps, do not use this code. 
