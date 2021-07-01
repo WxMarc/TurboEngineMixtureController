@@ -11,10 +11,15 @@ MSFS, is available here:
 https://forums.flightsimulator.com/t/inaccurate-mixture-behavior-on-turbocharged-piston-engines/411095
 
 This package includes mixture controllers for the three turbocharged piston aircraft that are currently available for
-MSFS -- Robert Young's Turbonormalized Bonanza, the Just Flight Turbo Arrow, and the Carenado Seneca V.  The controllers 
-calculate a target fuel/air mixture based on the user's hardware mixture lever setting and the air density in the intake 
-manifold (rather than the ambient density). This allows the mixture to be managed according to the POH, setting mixture 
-at full-rich throughout the climb instead of leaning the mixture to maintain proper power.
+MSFS: 
+
+- Robert Young's Turbonormalized Bonanza
+- Just Flight Turbo Arrow
+- Carenado Seneca V  
+
+The controllers calculate a target fuel/air mixture based on the user's hardware mixture lever setting and the air density 
+in the intake manifold (rather than the ambient density). This allows the mixture to be managed according to the POH, 
+setting mixture at full-rich throughout the climb instead of leaning the mixture to maintain proper power.
 
 Please see the included instructions.pdf for detailed instructions on how to install the controllers for any of the three
 aircraft mentioned above.
