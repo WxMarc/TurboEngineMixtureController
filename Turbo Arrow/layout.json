@@ -1,0 +1,3179 @@
+{
+  "content": [
+    {
+      "path": "de-DE.locPak",
+      "size": 2434,
+      "date": 132724837940000000
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 2252,
+      "date": 132724837940000000
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 2446,
+      "date": 132724837940000000
+    },
+    {
+      "path": "fi-FI.locPak",
+      "size": 2425,
+      "date": 132724837940000000
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 2664,
+      "date": 132724837940000000
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 2557,
+      "date": 132724837940000000
+    },
+    {
+      "path": "ja-JP.locPak",
+      "size": 2436,
+      "date": 132724837940000000
+    },
+    {
+      "path": "nl-NL.locPak",
+      "size": 2390,
+      "date": 132724837940000000
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 2707,
+      "date": 132724837940000000
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 2404,
+      "date": 132724837940000000
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 4439,
+      "date": 132724837940000000
+    },
+    {
+      "path": "ContentInfo/justflight-aircraft-pa28-turboarrow/productdata.txt",
+      "size": 618,
+      "date": 132730989938130973
+    },
+    {
+      "path": "ContentInfo/justflight-aircraft-pa28-turboarrow/Thumbnail.jpg",
+      "size": 48736,
+      "date": 132694735020000000
+    },
+    {
+      "path": "ContentInfo/justflight-aircraft-pa28-turboarrow/userinfo.txt",
+      "size": 87,
+      "date": 132730989938370984
+    },
+    {
+      "path": "ContentInfo/justflight-aircraft-pa28-turboarrow/version.txt",
+      "size": 7,
+      "date": 132730989938240989
+    },
+    {
+      "path": "Data/entypo.ttf",
+      "size": 35392,
+      "date": 132514002040000000
+    },
+    {
+      "path": "Data/JF_PA28_TurboArrow.ini",
+      "size": 176,
+      "date": 132648026940000000
+    },
+    {
+      "path": "Data/LCD.ttf",
+      "size": 72680,
+      "date": 132482286940000000
+    },
+    {
+      "path": "Data/NotoEmoji-Regular.ttf",
+      "size": 418804,
+      "date": 132514002040000000
+    },
+    {
+      "path": "Data/quartz.ttf",
+      "size": 57860,
+      "date": 132482286920000000
+    },
+    {
+      "path": "Data/Roboto-Bold.ttf",
+      "size": 135820,
+      "date": 132514002040000000
+    },
+    {
+      "path": "Data/Roboto-Light.ttf",
+      "size": 140276,
+      "date": 132514002040000000
+    },
+    {
+      "path": "Data/Roboto-Regular.ttf",
+      "size": 145348,
+      "date": 132514002040000000
+    },
+    {
+      "path": "Data/Images/Brt.png",
+      "size": 3159,
+      "date": 132678155300000000
+    },
+    {
+      "path": "Data/Images/GPS100.jpg",
+      "size": 84108,
+      "date": 132575382340000000
+    },
+    {
+      "path": "Data/Images/KN62.jpg",
+      "size": 44677,
+      "date": 132575272940000000
+    },
+    {
+      "path": "Data/Images/Yoke.jpg",
+      "size": 18428,
+      "date": 132579686580000000
+    },
+    {
+      "path": "Documents/Just Flight PA-28R Turbo Arrow tutorial.FLT",
+      "size": 19916,
+      "date": 132666217160000000
+    },
+    {
+      "path": "Documents/Just Flight PA-28R Turbo Arrow tutorial.FLT.FSSAVE",
+      "size": 8244,
+      "date": 132666216540000000
+    },
+    {
+      "path": "Documents/JUST FLIGHT PA-28R TURBO ARROW TUTORIAL.PLN",
+      "size": 2874,
+      "date": 132666216540000000
+    },
+    {
+      "path": "Documents/Just Flight PA-28R Turbo Arrow tutorial.SPB",
+      "size": 225,
+      "date": 132666216540000000
+    },
+    {
+      "path": "Documents/PA-28R Turbo Arrow III-IV MSFS manual.pdf",
+      "size": 22120316,
+      "date": 132696357720000000
+    },
+    {
+      "path": "Documents/PA-28R Turbo Arrow III-IV MSFS ODM manual.pdf",
+      "size": 6144518,
+      "date": 132653286460000000
+    },
+    {
+      "path": "Documents/Paintkit.zip",
+      "size": 356959333,
+      "date": 132677384480000000
+    },
+    {
+      "path": "effects/LIGHT_ASOBO_CabinBounce_dim.fx",
+      "size": 1354,
+      "date": 132569441560000000
+    },
+    {
+      "path": "effects/LIGHT_ASOBO_CockpitSpotRed_dim.fx",
+      "size": 1352,
+      "date": 132569436960000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_BeaconTop.fx",
+      "size": 1220,
+      "date": 132603180320000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_Landing.fx",
+      "size": 1227,
+      "date": 132603185720000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_NavigationGreen.fx",
+      "size": 1230,
+      "date": 132603184320000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_NavigationRed.fx",
+      "size": 1227,
+      "date": 132603184320000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_NavigationWhite.fx",
+      "size": 1353,
+      "date": 132603184320000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_StrobeSimple.fx",
+      "size": 4710,
+      "date": 132602544400000000
+    },
+    {
+      "path": "effects/LIGHT_PA28R_vLanding.fx",
+      "size": 1228,
+      "date": 132603185180000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_CockpitMinimalAmbiant.fx",
+      "size": 1362,
+      "date": 132614907740000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_CockpitOrangeGlow.fx",
+      "size": 1352,
+      "date": 132635634540000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_CockpitOrangeGlow33.fx",
+      "size": 1362,
+      "date": 132614907740000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_CompassSmall.fx",
+      "size": 1359,
+      "date": 132635239900000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_Gauge.fx",
+      "size": 1358,
+      "date": 132615596160000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_GaugeSmall.fx",
+      "size": 1359,
+      "date": 132615595840000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_ScreenEFB.fx",
+      "size": 1358,
+      "date": 132635711420000000
+    },
+    {
+      "path": "effects/LIGHT_PA28_ScreenPanel.fx",
+      "size": 1358,
+      "date": 132617450440000000
+    },
+    {
+      "path": "effects/texture/FX_PA28R_strobe.PNG.dds",
+      "size": 87556,
+      "date": 132486335280000000
+    },
+    {
+      "path": "effects/texture/fx_PA28R_strobe.png.DDS.FLAGS",
+      "size": 21,
+      "date": 132486335280000000
+    },
+    {
+      "path": "effects/texture/FX_PA28R_strobe.PNG.DDS.json",
+      "size": 144,
+      "date": 132486335280000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn650_int.css",
+      "size": 1225,
+      "date": 132694746120000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn650_int.html",
+      "size": 840,
+      "date": 132724153700000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn650_int.js",
+      "size": 1687,
+      "date": 132694749480000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn750_int.css",
+      "size": 1225,
+      "date": 132615051720000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn750_int.html",
+      "size": 840,
+      "date": 132724153680000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/NavSystems/justflight-aircraft-pa28-turboarrow/pms50_gtn750_int/gtn750_int.js",
+      "size": 1687,
+      "date": 132614508220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/ai.cfg",
+      "size": 773,
+      "date": 132665232860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/aircraft.cfg",
+      "size": 12871,
+      "date": 132715278120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/aircraft.loc",
+      "size": 14488,
+      "date": 132715282000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/Approach.flt",
+      "size": 2814,
+      "date": 132570115300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/apron.flt",
+      "size": 2680,
+      "date": 132597743000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/cameras.cfg",
+      "size": 17882,
+      "date": 132605495360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/Climb.flt",
+      "size": 2814,
+      "date": 132570114940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/cockpit.cfg",
+      "size": 4520,
+      "date": 132697286300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/Cruise.flt",
+      "size": 2815,
+      "date": 132570115680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/engines.cfg",
+      "size": 5880,
+      "date": 132681608100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/Final.flt",
+      "size": 2813,
+      "date": 132570116300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/flight_model.cfg",
+      "size": 20966,
+      "date": 132726036260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/gameplay.cfg",
+      "size": 1151,
+      "date": 132386522660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/hangar.flt",
+      "size": 2740,
+      "date": 132386522660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/runway.FLT",
+      "size": 2667,
+      "date": 132683292580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/systems.cfg",
+      "size": 10142,
+      "date": 132681723660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/taxi.flt",
+      "size": 2666,
+      "date": 132570116940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/Checklist/JF_PA28_TurboArrow_Checklist.xml",
+      "size": 55960,
+      "date": 132679161120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT.bin",
+      "size": 15014368,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT.gltf",
+      "size": 376883,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT.xml",
+      "size": 224061,
+      "date": 132721382700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT_LOD1.bin",
+      "size": 6793476,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT_LOD1.gltf",
+      "size": 308666,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT_LOD2.bin",
+      "size": 1055128,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_EXT_LOD2.gltf",
+      "size": 89657,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_VC.bin",
+      "size": 18478646,
+      "date": 132726495700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_VC.gltf",
+      "size": 1067538,
+      "date": 132726495700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_PA28_3T_VC.xml",
+      "size": 231826,
+      "date": 132725661460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/JF_Switches.xml",
+      "size": 8789,
+      "date": 132603805820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/model/model.CFG",
+      "size": 681,
+      "date": 132591840420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/panel/JF_PA28_TurboArrow_WASM.wasm",
+      "size": 4117866,
+      "date": 132726494980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/panel/panel.cfg",
+      "size": 2839,
+      "date": 132730999308400754
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/panel/panel.xml",
+      "size": 410,
+      "date": 132627284560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/panel/TurboArrow_Mixture_Controller.wasm",
+      "size": 47981,
+      "date": 132695723058838125
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/sound/JustFlight_PA28RT.PC.PCK",
+      "size": 48480377,
+      "date": 132725830640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/sound/sound.xml",
+      "size": 102699,
+      "date": 132725839600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/soundai/JustFlight_PA28RT_AI.PC.PCK",
+      "size": 13076475,
+      "date": 132725830640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/soundai/soundai.xml",
+      "size": 7246,
+      "date": 132703277920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT01_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT01_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT01_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT02_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT02_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT02_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT04_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT07_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT08_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT_PROP_FAST.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT_PROP_FAST.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT_PROP_FAST_B.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_EXT_PROP_FAST_B.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_LIGHTGLASS_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW3T_LIGHTGLASS_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXTGLASS_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXTGLASS_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_COLORGLASS_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_COLORGLASS_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_PROP_SLOW.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_PROP_SLOW.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_PROP_SLOW_B.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_3T_EXT_PROP_SLOW_B.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_EXTGLASS_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_EXTGLASS_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_EXT_DECALS.PNG.DDS",
+      "size": 349680,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/ARROW_EXT_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_DETAIL_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_DETAIL_COMP.PNG.DDS.json",
+      "size": 134,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_DETAIL_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_DETAIL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/FROST_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP01_MASK.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP01_MASK.PNG.DDS.json",
+      "size": 134,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP02_MASK.PNG.DDS",
+      "size": 5592560,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP02_MASK.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP03_MASK.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/GLASS_DETAILMAP03_MASK.PNG.DDS.json",
+      "size": 134,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT01_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT01_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT02_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT02_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT03_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT03_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT03_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT04_ALBEDO.PNG.DDS",
+      "size": 43832,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT04_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT04_SURFACE.PNG.DDS",
+      "size": 43832,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT04_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT05_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT05_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT05_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT06_ALBEDO.PNG.DDS",
+      "size": 43832,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT06_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT06_SURFACE.PNG.DDS",
+      "size": 43832,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PILOT06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PROP_SIDE_BLUR.PNG.DDS",
+      "size": 43920,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture/PROP_SIDE_BLUR.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837900000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/thumbnail.JPG",
+      "size": 768796,
+      "date": 132592206760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.Custom/thumbnail_small.JPG",
+      "size": 97614,
+      "date": 132592207240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/thumbnail.JPG",
+      "size": 774840,
+      "date": 132592210980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.DERMT/thumbnail_small.JPG",
+      "size": 96887,
+      "date": 132592210580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/thumbnail.JPG",
+      "size": 768796,
+      "date": 132592206760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.GOBAK/thumbnail_small.JPG",
+      "size": 97614,
+      "date": 132592207240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/thumbnail.JPG",
+      "size": 803742,
+      "date": 132592209100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.HBPMB/thumbnail_small.JPG",
+      "size": 97879,
+      "date": 132592208740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/thumbnail.JPG",
+      "size": 760358,
+      "date": 132592209820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.N48427/thumbnail_small.JPG",
+      "size": 97110,
+      "date": 132592210300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724920520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724920520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_LM.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_LM.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_04_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_04_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_04_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_07_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_08_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_09_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_10_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_11_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_11_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3TVC_12_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3T_EXTGLASS_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3T_EXTGLASS_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3T_EXT_COLORGLASS_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROW3T_EXT_COLORGLASS_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/ARROWVC_HSI_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132726495680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/EFB_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/EFB_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/EFB_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/EFB_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/EFB_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VC/OXYTANK_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724837760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/ARROW3T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/ARROW3T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/ARROW3T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724837860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/ARROW3T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724837860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/thumbnail.JPG",
+      "size": 776990,
+      "date": 132592214740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_III/texture.VHLLA/thumbnail_small.JPG",
+      "size": 95793,
+      "date": 132592215060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/ai.cfg",
+      "size": 773,
+      "date": 132665232860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/aircraft.cfg",
+      "size": 12839,
+      "date": 132715277680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/aircraft.loc",
+      "size": 15105,
+      "date": 132715281880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/Approach.flt",
+      "size": 2814,
+      "date": 132570115300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/apron.flt",
+      "size": 2680,
+      "date": 132597743000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/cameras.cfg",
+      "size": 17882,
+      "date": 132605495360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/Climb.flt",
+      "size": 2814,
+      "date": 132570114940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/cockpit.cfg",
+      "size": 4520,
+      "date": 132697286260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/Cruise.flt",
+      "size": 2815,
+      "date": 132570115680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/engines.cfg",
+      "size": 5880,
+      "date": 132681608060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/Final.flt",
+      "size": 2813,
+      "date": 132570116300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/flight_model.cfg",
+      "size": 20818,
+      "date": 132726035740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/gameplay.cfg",
+      "size": 1151,
+      "date": 132386522660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/hangar.flt",
+      "size": 2740,
+      "date": 132386522660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/runway.FLT",
+      "size": 2667,
+      "date": 132683292620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/systems.cfg",
+      "size": 10178,
+      "date": 132681732380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/taxi.flt",
+      "size": 2666,
+      "date": 132570116940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/Checklist/JF_PA28_TurboArrow_Checklist.xml",
+      "size": 55960,
+      "date": 132679161120000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT.bin",
+      "size": 14967972,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT.gltf",
+      "size": 382407,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT.xml",
+      "size": 224057,
+      "date": 132721382820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT_LOD1.bin",
+      "size": 7141340,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT_LOD1.gltf",
+      "size": 309101,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT_LOD2.bin",
+      "size": 1116816,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_EXT_LOD2.gltf",
+      "size": 87169,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_VC.bin",
+      "size": 18411252,
+      "date": 132726495740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_VC.gltf",
+      "size": 1068618,
+      "date": 132726495740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_PA28_4T_VC.xml",
+      "size": 231831,
+      "date": 132725661540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/JF_Switches.xml",
+      "size": 8789,
+      "date": 132603805820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/model/model.CFG",
+      "size": 681,
+      "date": 132591840420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/panel/JF_PA28_TurboArrow_WASM.wasm",
+      "size": 4117866,
+      "date": 132726494980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/panel/panel.cfg",
+      "size": 2839,
+      "date": 132730999779476850
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/panel/panel.xml",
+      "size": 410,
+      "date": 132627284560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/panel/TurboArrow_Mixture_Controller.wasm",
+      "size": 47981,
+      "date": 132695723058838125
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/sound/JustFlight_PA28RT.PC.PCK",
+      "size": 48480377,
+      "date": 132725830640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/sound/sound.xml",
+      "size": 102699,
+      "date": 132725839600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/soundai/JustFlight_PA28RT_AI.PC.PCK",
+      "size": 13076475,
+      "date": 132725830640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/soundai/soundai.xml",
+      "size": 7246,
+      "date": 132703277920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT01_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT01_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT01_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT02_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT02_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT02_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT04_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT07_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT08_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_FAST.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_FAST.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_FAST_B.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_FAST_B.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_SLOW.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_EXT_PROP_SLOW.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_LIGHTGLASS_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW4T_LIGHTGLASS_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXTGLASS_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXTGLASS_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXT_COLORGLASS_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXT_COLORGLASS_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXT_PROP_SLOW_B.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_4T_EXT_PROP_SLOW_B.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_EXTGLASS_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_EXTGLASS_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_EXT_DECALS.PNG.DDS",
+      "size": 349680,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/ARROW_EXT_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_DETAIL_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_DETAIL_COMP.PNG.DDS.json",
+      "size": 134,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_DETAIL_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_DETAIL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/FROST_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP01_MASK.PNG.DDS",
+      "size": 2796344,
+      "date": 132724836580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP01_MASK.PNG.DDS.json",
+      "size": 134,
+      "date": 132724836580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP02_MASK.PNG.DDS",
+      "size": 5592560,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP02_MASK.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP03_MASK.PNG.DDS",
+      "size": 2796344,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/GLASS_DETAILMAP03_MASK.PNG.DDS.json",
+      "size": 134,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT01_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT01_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT02_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT02_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT03_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT03_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT03_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT04_ALBEDO.PNG.DDS",
+      "size": 43832,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT04_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT04_SURFACE.PNG.DDS",
+      "size": 43832,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT04_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT05_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT05_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT05_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724836380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT06_ALBEDO.PNG.DDS",
+      "size": 43832,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT06_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT06_SURFACE.PNG.DDS",
+      "size": 43832,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PILOT06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PROP_SIDE_BLUR.PNG.DDS",
+      "size": 43920,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture/PROP_SIDE_BLUR.PNG.DDS.json",
+      "size": 119,
+      "date": 132724836420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836860000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/thumbnail.JPG",
+      "size": 766230,
+      "date": 132592222200000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.Custom/thumbnail_small.JPG",
+      "size": 94962,
+      "date": 132592222500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/thumbnail.JPG",
+      "size": 748786,
+      "date": 132592224260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.DEAIV/thumbnail_small.JPG",
+      "size": 90870,
+      "date": 132592224000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/thumbnail.JPG",
+      "size": 766230,
+      "date": 132592222200000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.GBOGM/thumbnail_small.JPG",
+      "size": 94962,
+      "date": 132592222500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836820000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836840000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/thumbnail.JPG",
+      "size": 830113,
+      "date": 132592221580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.N3023K/thumbnail_small.JPG",
+      "size": 104144,
+      "date": 132592221320000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/thumbnail.JPG",
+      "size": 794110,
+      "date": 132592220220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OEKFT/thumbnail_small.JPG",
+      "size": 99282,
+      "date": 132592220560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/ARROW4T_EXT01_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/ARROW4T_EXT01_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/ARROW4T_EXT02_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 132724836800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/ARROW4T_EXT02_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/texture.CFG",
+      "size": 59,
+      "date": 132590967960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/thumbnail.JPG",
+      "size": 775562,
+      "date": 132592218940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.OKMAN/thumbnail_small.JPG",
+      "size": 98617,
+      "date": 132592218700000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01.PNG.DDS",
+      "size": 11184952,
+      "date": 132724920520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01.PNG.DDS.json",
+      "size": 102,
+      "date": 132724920520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01_LM.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_01_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02_LM.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_02_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724847440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724847440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_03_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_04_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132724937720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_04_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132724937720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05.PNG.DDS",
+      "size": 174904,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724857660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724857660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_05_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_06_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724847320000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724847320000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_07_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847340000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847340000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08_SURFACE.PNG.DDS",
+      "size": 11184952,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_08_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_09_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847460000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_LM.PNG.DDS",
+      "size": 699192,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_SURFACE.PNG.DDS",
+      "size": 699192,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_10_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_11_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_11_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724847500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724847500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROW4TVC_12_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724847420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS",
+      "size": 174904,
+      "date": 132724836680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836680000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132724836540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_SURFACE.PNG.DDS",
+      "size": 174904,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/ARROWVC_HSI_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132726495720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/EFB_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132724836560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/EFB_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/EFB_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724836560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/EFB_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724836660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/EFB_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724836660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132724849020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_ALBEDO.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132603109880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132724849020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132724849020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132724849020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_SURFACE.PNG.DDS",
+      "size": 2796344,
+      "date": 132724849020000000
+    },
+    {
+      "path": "SimObjects/Airplanes/JF_PA28_TurboArrow_IV/texture.VC/OXYTANK_SURFACE.PNG.DDS.json",
+      "size": 166,
+      "date": 132724849020000000
+    }
+  ]
+}
