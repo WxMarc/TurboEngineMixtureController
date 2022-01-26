@@ -24,6 +24,13 @@ setting mixture at full-rich throughout the climb instead of leaning the mixture
 Please see the included instructions.pdf for detailed instructions on how to install the controllers for any of the three
 aircraft mentioned above.
 
+Dependencies: 
+Successful installtion of the mixture controller requires updating the layout.json file for the airplane to include a 
+reference to the .wasm file which is added to the airplane's panel folder. I recommend using the MSFS Layout Generator for
+this. It is a quick drag-and-drop utility that updates layout files painlessly. See the link below for more information.
+
+https://github.com/HughesMDflyer4/MSFSLayoutGenerator
+
 CAUTION: 
 Successfully installing these controllers will require copying and pasting the files to the proper folders and updating 
 each airplane's panel.cfg and layout.json files. If you are not comfortable taking these steps, do not use this code. 
