@@ -1,6 +1,12 @@
 # TurboEngineMixtureController
 Mixture Controller for Turbocharged Piston Engines in MSFS 2020
 
+NOTE: If using the Working Title Technology add-on for the PMS50 GTN750 in the Carenado Seneca V, the mixture controller
+WASM file and the panel.cfg must be edited in the "pms50-gtn750wtt-aircraft-carenado-seneca" folder in your community
+folder, rather than following the procedure in the included PDF instructions. The PMS50 WTT add-on replaces the default
+panel in the Seneca V, and it will override the mixture controller if it is located in the official Carenado installation
+directory. 
+
 Microsoft Flight Simulator's fuel mixture logic for turbocharged piston engines produces excessively rich fuel mixtures
 and loss of power at high altitudes. The default logic appears to calculate fuel/air mixture based on ambient density. 
 In a real-world turbocharged engine, the turbocharger compresses air before it enters the cylinders. This increases the 
