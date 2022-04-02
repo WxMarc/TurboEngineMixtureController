@@ -28,7 +28,7 @@ The controllers calculate a target fuel/air mixture based on the user's hardware
 in the intake manifold (rather than the ambient density). This allows the mixture to be managed according to the POH, 
 setting mixture at full-rich throughout the climb instead of leaning the mixture to maintain proper power.
 
-Please see the included instructions.pdf for detailed instructions on how to install the controllers for any of the three
+Please see the included instructions.pdf for detailed instructions on how to install the controllers for any of the
 aircraft mentioned above.
 
 DEPENDENCIES: 
