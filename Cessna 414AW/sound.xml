@@ -4,10 +4,12 @@
 
 <WwisePackages>
 	<MainPackage Name="Flysimware_Cessna_414A"/>
+	<AdditionalPackage Name="Flysimware_Cessna_414A_SA"/>
 </WwisePackages>
 
 
 <!-- Acoustic Parameters #################################################################################### --> 
+
 
   <AcousticParameters>
       <Parameter Name="ReverberationPreset" ShareSetInside="rev_inside_da62"/>
@@ -15,44 +17,34 @@
       <Parameter Name="Insulation_ExitOpen" Value="0"/>
   </AcousticParameters>
 	
+	
 <!-- AlwaysPlay Sounds #################################################################################### -->  
 
+
   <AlwaysPlaySounds>
+	<Sound WwiseData="true" WwiseEvent="rattle_kinematic" >
+	  <WwiseRTPC SimVar="ROTATION VELOCITY BODY X" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_X"/>
+	  <WwiseRTPC SimVar="ROTATION VELOCITY BODY Y" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_Y"/>
+	  <WwiseRTPC SimVar="ROTATION VELOCITY BODY Z" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_Z"/>            
+	</Sound>    
 
-    <Sound WwiseData="true" WwiseEvent="rattle_kinematic" >
-      <WwiseRTPC SimVar="ROTATION VELOCITY BODY X" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_X"/>
-      <WwiseRTPC SimVar="ROTATION VELOCITY BODY Y" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_Y"/>
-      <WwiseRTPC SimVar="ROTATION VELOCITY BODY Z" Units="PERCENT" Index="0" RTPCName="SIMVAR_ROTATION_VELOCITY_BODY_Z"/>            
-    </Sound>    
-  
-    <Sound WwiseData="true" WwiseEvent="YOKE_MOVEMENT_AILERON" ViewPoint="Inside" NodeName="HANDLING_YOKE">
-      <WwiseRTPC SimVar="YOKE X POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_X_POSITION_DERIVED"/>
-      <WwiseRTPC SimVar="YOKE Y POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_Y_POSITION_DERIVED"/>
-    </Sound>
-	
+	<Sound WwiseData="true" WwiseEvent="YOKE_MOVEMENT_AILERON" ViewPoint="Inside" NodeName="HANDLING_YOKE">
+	  <WwiseRTPC SimVar="YOKE X POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_X_POSITION_DERIVED"/>
+	  <WwiseRTPC SimVar="YOKE Y POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_Y_POSITION_DERIVED"/>
+	</Sound>
+
 	<Sound WwiseData="true" WwiseEvent="YOKE_MOVEMENT_ELEVATOR" ViewPoint="Inside" NodeName="HANDLING_YOKE">
-      <WwiseRTPC SimVar="YOKE X POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_X_POSITION_DERIVED"/>
-      <WwiseRTPC SimVar="YOKE Y POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_Y_POSITION_DERIVED"/>
-    </Sound>
-	
-	<Sound WwiseData="true" WwiseEvent="RUDDER_MOVEMENT" ViewPoint="Inside" NodeName="HANDLING_YOKE">
-      <WwiseRTPC SimVar="RUDDER PEDAL POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_RUDDER_PEDAL_POSITION_DERIVED"/>
-    </Sound>
-		
+	  <WwiseRTPC SimVar="YOKE X POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_X_POSITION_DERIVED"/>
+	  <WwiseRTPC SimVar="YOKE Y POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_YOKE_Y_POSITION_DERIVED"/>
+	</Sound>
 
-		
-  </AlwaysPlaySounds> 
-	
+	<Sound WwiseData="true" WwiseEvent="RUDDER_MOVEMENT" ViewPoint="Inside" NodeName="HANDLING_YOKE">
+	  <WwiseRTPC SimVar="RUDDER PEDAL POSITION" Units="PERCENT" Index="0" Derived="true" RTPCName="SIMVAR_RUDDER_PEDAL_POSITION_DERIVED"/>
+	</Sound>	
+  </AlwaysPlaySounds> 	
 	
 	
 <!-- Attribute Sounds #################################################################################### --> 
-
-<WindSounds>
-		<Sound WwiseEvent="wind_sound" WwiseData="true" >  	
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-		</Sound>
-</WindSounds> 
 
 
 <GroundSounds>
@@ -75,112 +67,16 @@
 </GroundSounds>
 
 
-
 <MiscellaneousSounds>
     <Sound WwiseEvent="STALL_WARNING" WwiseData="true"/>
 	<Sound WwiseEvent="OVERSPEED_WARNING_SOUND" WwiseData="true" />	
     <Sound WwiseEvent="AP_PREFLIGHT_CHECK_OVER" ViewPoint="Inside" WwiseData="true" />
 </MiscellaneousSounds>
-
-	
-	
-  <EngineSoundPresets>
-  
-	<!-- ENG1///////////////////////////// --> 	
-    <Sound WwiseEvent="Combustion" ConeHeading="145" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="1" >
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-	<Sound WwiseEvent="Combustion" CustomSuffix="Exhaust" ConeHeading="135" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="1" >   
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-    <Sound WwiseEvent="Starter" FadeOutType="2" FadeOutTime="0.1" WwiseData="true" EngineIndex="1" >  
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-	
-
-    <Sound WwiseEvent="CombustionStart" ConeHeading="145" FadeOutType="2" FadeOutTime="6" WwiseData="true" EngineIndex="1" >  
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-    <Sound WwiseEvent="CombustionStart" CustomSuffix="Propeller" FadeOutType="2" FadeOutTime="6" ConeHeading="30" WwiseData="true" EngineIndex="1" >
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-	
-	
-    <Sound WwiseEvent="Shutdown" ConeHeading="145" RPMMin="1185" WwiseData="true" EngineIndex="1" > 
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-    <Sound WwiseEvent="Shutdown" CustomSuffix="Propeller" ConeHeading="30" RPMMin="1185" WwiseData="true" EngineIndex="1" >
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-	<Sound WwiseEvent="Propeller" ConeHeading="30" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="1" >  
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-    
-	
-	
-	
-	<!-- ENG2///////////////////////////// -->     
-    <Sound WwiseEvent="Combustion" ConeHeading="215" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="2" >
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-	<Sound WwiseEvent="Combustion" CustomSuffix="Exhaust" ConeHeading="225" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="2" > 
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-    <Sound WwiseEvent="Starter" FadeOutType="2" FadeOutTime="0.1" WwiseData="true" EngineIndex="2" >  
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-	<Sound WwiseEvent="CombustionStart" ConeHeading="215" WwiseData="true" EngineIndex="2" >   
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-    <Sound WwiseEvent="CombustionStart" CustomSuffix="Propeller" ConeHeading="330" WwiseData="true" EngineIndex="2">  
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-    <Sound WwiseEvent="Shutdown" ConeHeading="215" RPMMin="1185" WwiseData="true" EngineIndex="2" >   
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-	</Sound>
-    <Sound WwiseEvent="Shutdown" CustomSuffix="Propeller" ConeHeading="330" RPMMin="1185" WwiseData="true" EngineIndex="2" > 
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-    <Sound WwiseEvent="Propeller" ConeHeading="330" FadeOutType="2" FadeOutTime="0.2" RPMMin="1185" WwiseData="true" EngineIndex="2" >
-		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION SOUND PERCENT" Units="PERCENT OVER 100" RTPCReleaseTime="0.5" Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION_SOUND_PERCENT" />
-	</Sound>
-	
-  </EngineSoundPresets>
-	
-	
-	
-	
-
-	
-	
-<!-- EventId Sounds #################################################################################### -->    
-<EventIdSounds>
-
-
-
-</EventIdSounds>
-  
-  
-  
   
 	
 <!-- SimVar Sounds #################################################################################### -->    
+
+
 <SimVarSounds>  
   
   
@@ -214,30 +110,6 @@
 	
 	
 	
-	
-    <Sound WwiseEvent="eng1_starter" WwiseData="true" ViewPoint="Inside" FadeOutType="2" FadeOutTime="0.1" LocalVar="TOGGLE_STARTER1"> 
-	  	  <Range LowerBound="1" />	
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-         <Requires SimVar="GENERAL ENG RPM" Units="PERCENT" Index="1">
-            <Range UpperBound="200" />
-        </Requires>	
-	  <Requires SimVar="ELECTRICAL MASTER BATTERY" Units="BOOLEAN" Index="1">
-        <Range LowerBound="1" />
-      </Requires>		
-	</Sound>
-
-    <Sound WwiseEvent="eng2_starter" WwiseData="true" ViewPoint="Inside" FadeOutType="2" FadeOutTime="0.1" LocalVar="TOGGLE_STARTER2"> 
-	  	  <Range LowerBound="1" />	
-		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-         <Requires SimVar="GENERAL ENG RPM" Units="PERCENT" Index="2">
-            <Range UpperBound="200" />
-        </Requires>	
-	  <Requires SimVar="ELECTRICAL MASTER BATTERY" Units="BOOLEAN" Index="1">
-        <Range LowerBound="1" />
-      </Requires>		
-	</Sound>	
 	
 	
     <Sound WwiseEvent="click_digital" WwiseData="true" NodeName="EFB_CASE" ViewPoint="Inside" BreakOnStop="false" LocalVar="EFB_PUSH_SOUND">
@@ -387,7 +259,8 @@
 	<Sound WwiseData="true" WwiseEvent="lever_propeller_2" ViewPoint="Inside" NodeName="ENGINE_Lever_Propeller_2" ContinuousStopDelay="1.0" SimVar="GENERAL ENG PROPELLER LEVER POSITION" Units="PERCENT" Index="2">
       <WwiseRTPC SimVar="GENERAL ENG PROPELLER LEVER POSITION" Units="PERCENT" Index="2" Derived="true" RTPCName="SIMVAR_GENERAL_ENG_PROPELLER_LEVER_POSITION_DERIVED" />
 	</Sound>	
-	<!-- 	
+	
+	<!--
     <Sound WwiseData="true" WwiseEvent="lever_mixture" ViewPoint="Inside" NodeName="FUEL_Lever_Mixture_1" ContinuousStopDelay="0" SimVar="GENERAL ENG MIXTURE LEVER POSITION" Units="PERCENT" Index="1">
       <WwiseRTPC SimVar="GENERAL ENG MIXTURE LEVER POSITION" Units="PERCENT" Index="1" Derived="true" RTPCName="SIMVAR_GENERAL_ENG_MIXTURE_LEVER_POSITION_DERIVED" />
 	</Sound>
@@ -548,50 +421,200 @@
     </Sound>
 
 
-		<!-- INTRUMENTS MISC ========================================================================================== --> 	
-
-
+	<!-- INTRUMENTS MISC ========================================================================================== -->
 	<Sound WwiseData="true" WwiseEvent="hydraulic_pump" NodeName="C_WHEEL_BASE" Continuous="false" SimVar="ELECTRICAL MAIN BUS VOLTAGE" Units="VOLTS" Index="1">
         <Range LowerBound="13.6" />
 	</Sound>
-	
-	<Sound WwiseData="true" WwiseEvent="eng1_exhaust_cooling" NodeName="LEFT_PROP" SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE" Units="CELSIUS" Index="1">
-	  <WwiseRTPC SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE" Units="CELSIUS" Index="1" RTPCName="SIMVAR_RECIP_ENG_CYLINDER_HEAD_TEMPERATURE" />
-	  <Range LowerBound= "20.0"/>
-      <WwiseRTPC LocalVar="WINDOW_1" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-	  <WwiseRTPC LocalVar="WINDOW_2" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-      <Requires SimVar="GENERAL ENG COMBUSTION" Units="BOOL" Index="1">
-		<Range UpperBound="0.0"/>
-	  </Requires>
-	</Sound> 
-	
-	<Sound WwiseData="true" WwiseEvent="eng2_exhaust_cooling" NodeName="RIGHT_PROP" SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE" Units="CELSIUS" Index="2">
-	  <WwiseRTPC SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE" Units="CELSIUS" Index="2" RTPCName="SIMVAR_RECIP_ENG_CYLINDER_HEAD_TEMPERATURE" />
-	  <Range LowerBound= "20.0"/>
-      <WwiseRTPC LocalVar="WINDOW_1" RTPCName="LOCALVAR_L_WINDOW_DERIVED"/>
-	  <WwiseRTPC LocalVar="WINDOW_2" RTPCName="LOCALVAR_R_WINDOW_DERIVED"/>
-      <Requires SimVar="GENERAL ENG COMBUSTION" Units="BOOL" Index="2">
-		<Range UpperBound="0.0"/>
-	  </Requires>
-	</Sound> 
-	
 
+<!--
+	//*===================================================================================================*\\
+	//*===================================================================================================*\\
+	//*================================* START of SimAcoustics additions *================================*\\
+	//*===================================================================================================*\\
+	//*===================================================================================================*\\
+-->
 
-
-  	<!-- RAIN ========================================================================================== --> 
+	<!-- Wind hitting the aircraft -->
+	<Sound WwiseData="true" WwiseEvent="wind_sound_sa" SimVar="AIRSPEED INDICATED" Units="KNOTS" Index="0">
+		<Range LowerBound="1"/>				
+		<WwiseRTPC SimVar="AIRSPEED INDICATED" 					Units="KNOTS" 					Index="0" RTPCName="SIMVAR_AIRSPEED_INDICATED"/>
+		<WwiseRTPC SimVar="AIRSPEED TRUE" 						Units="KNOTS" 					Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+        <WwiseRTPC SimVar="GEAR TOTAL PCT EXTENDED" 			Units="PERCENT" 				Index="0" RTPCName="SIMVAR_GEAR_TOTAL_PCT_EXTENDED"/>
+        <WwiseRTPC SimVar="INCIDENCE ALPHA" 					Units="DEGREES" 				Index="0" RTPCName="SIMVAR_INCIDENCE_ALPHA"/>
+        <WwiseRTPC SimVar="PLANE ALT ABOVE GROUND"              Units="FEET"            		Index="0" RTPCName="SIMVAR_PLANE_ALT_ABOVE_GROUND"/>
+		<WwiseRTPC SimVar="TRAILING EDGE FLAPS LEFT PERCENT" 	Units="PERCENT" 				Index="0" RTPCName="SIMVAR_TRAILING_EDGE_FLAPS_LEFT_PERCENT"/>
+        <WwiseRTPC SimVar="TRAILING EDGE FLAPS RIGHT PERCENT" 	Units="PERCENT" 				Index="0" RTPCName="SIMVAR_TRAILING_EDGE_FLAPS_RIGHT_PERCENT"/>
+	</Sound>
+	<Sound WwiseData="true" WwiseEvent="wind_sound_sa_window_l" NodeName="PILOT_WINDOW" LocalVar="XMLVAR_PILOT_WINDOW_Position">
+		<Range LowerBound="1"/>				
+		<WwiseRTPC SimVar="AIRSPEED INDICATED" 					Units="KNOTS" 					Index="0" RTPCName="SIMVAR_AIRSPEED_INDICATED"/>
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position" 		Units="PERCENT" 				Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" WwiseEvent="wind_sound_sa_window_r" NodeName="COPILOT_WINDOW" LocalVar="XMLVAR_COPILOT_WINDOW_Position">
+		<Range LowerBound="1"/>				
+		<WwiseRTPC SimVar="AIRSPEED INDICATED" 					Units="KNOTS" 					Index="0" RTPCName="SIMVAR_AIRSPEED_INDICATED"/>
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position" 	Units="PERCENT" 				Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
 	
-    <Sound WwiseData="true" WwiseEvent="rain_sound" SimVar="AMBIENT PRECIP RATE" Units="millimeters of water" Index="0"> 
-		<Range LowerBound="0.1" />
-	    <WwiseRTPC SimVar="AMBIENT PRECIP RATE" Units="millimeters of water" Index="0" RTPCName="SIMVAR_AMBIENT_PRECIP_RATE"/> 
-        <WwiseRTPC SimVar="AIRSPEED TRUE" Units="KNOTS" Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/> 
-    </Sound>  
-  
-  
- </SimVarSounds>  
-  
-  
+	<!-- Rain hitting the aircraft -->
+	<Sound WwiseData="true" WwiseEvent="rain_sound_sa" SimVar="AMBIENT PRECIP RATE" Units="MILLIMETERS OF WATER" Index="0">
+		<Range LowerBound="0.1"/>
+		<Requires SimVar="AMBIENT PRECIP STATE" Units="MASK" Index="0">
+			<Range LowerBound="4" UpperBound="4"/>
+		</Requires>
+		<WwiseRTPC SimVar="AMBIENT PRECIP RATE" 				Units="MILLIMETERS OF WATER" 	Index="0" RTPCName="SIMVAR_AMBIENT_PRECIP_RATE"/>
+		<WwiseRTPC SimVar="AIRSPEED TRUE" 						Units="KNOTS" 					Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+	</Sound>
 
-  
+	<!--
+        //*===================================================================================================*\\
+        //*===================================================================================================*\\
+        //*====================================* ENGINE START & SHUTDOWN *====================================*\\
+        //*===================================================================================================*\\
+        //*===================================================================================================*\\
+    -->
+	
+	<!-- Starter motors -->
+	<Sound WwiseData="true" WwiseEvent="eng1_starter_sa" NodeName="WING_COWLING_LEFT" LocalVar="TOGGLE_STARTER1" ContinuousStopDelay="0.5" FadeOutType="2" FadeOutTime="0.2">
+		<Range LowerBound="1"/>
+		<Requires SimVar="ELECTRICAL MASTER BATTERY" Units="BOOLEAN" Index="0">
+			<Range LowerBound="1"/>
+		</Requires>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1"/>
+		<WwiseRTPC SimVar="GENERAL ENG RPM"         				Units="RPM"         	Index="1" RTPCName="SIMVAR_GENERAL_ENG_RPM"/>
+		<WwiseRTPC SimVar="GENERAL ENG STARTER"         			Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_STARTER" RTPCAttackTime="1"/>
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position"         	Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" WwiseEvent="eng2_starter_sa" NodeName="WING_COWLING_RIGHT" LocalVar="TOGGLE_STARTER2" ContinuousStopDelay="0.5" FadeOutType="2" FadeOutTime="0.2">
+		<Range LowerBound="1"/>
+		<Requires SimVar="ELECTRICAL MASTER BATTERY" Units="BOOLEAN" Index="0">
+			<Range LowerBound="1"/>
+		</Requires>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1"/>
+		<WwiseRTPC SimVar="GENERAL ENG RPM"         				Units="RPM"         	Index="2" RTPCName="SIMVAR_GENERAL_ENG_RPM"/>
+		<WwiseRTPC SimVar="GENERAL ENG STARTER"         			Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_STARTER" RTPCAttackTime="1"/>
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position"        Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
+</SimVarSounds>
+
+<EngineSoundPresets>
+	<!-- Engine 1 -->
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="CombustionStart" CustomSuffix="sa">
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position"         	Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Shutdown" CustomSuffix="sa" RPMMin="575">
+		<WwiseRTPC SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE"     Units="CELSIUS"         Index="1" RTPCName="SIMVAR_RECIP_ENG_CYLINDER_HEAD_TEMPERATURE"/>
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position"          Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+
+	<!-- Engine 2 -->
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="CombustionStart" CustomSuffix="sa">
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position"        Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Shutdown" CustomSuffix="sa" RPMMin="575">
+		<WwiseRTPC SimVar="RECIP ENG CYLINDER HEAD TEMPERATURE"     Units="CELSIUS"         Index="2" RTPCName="SIMVAR_RECIP_ENG_CYLINDER_HEAD_TEMPERATURE"/>
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position"        Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
+
+	<!--
+		//*===================================================================================================*\\
+		//*===================================================================================================*\\
+		//*========================================* RUNNING ENGINE *=========================================*\\
+		//*===================================================================================================*\\
+		//*===================================================================================================*\\
+	-->
+
+	<!-- Engine 1 interior -->
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Combustion" CustomSuffix="sa_int" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Inside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position"          Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Propeller" CustomSuffix="sa_int" ConeHeading="0" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Inside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC LocalVar="XMLVAR_PILOT_WINDOW_Position"          Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_LEFT_OPEN"/>
+	</Sound>
+
+	<!-- Engine 1 exterior -->
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Combustion" CustomSuffix="sa_ext" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Combustion" CustomSuffix="sa_ext_exhaust" ConeHeading="180" ConePitch="-45" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC SimVar="GENERAL ENG THROTTLE LEVER POSITION"     Units="PERCENT"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_THROTTLE_LEVER_POSITION_DERIVED" Derived="true" RTPCAttackTime="0.4" RTPCReleaseTime="1.2"/>
+		<WwiseRTPC SimVar="PLANE ALT ABOVE GROUND"                  Units="FEET"            Index="0" RTPCName="SIMVAR_PLANE_ALT_ABOVE_GROUND" RTPCAttackTime="0.5" RTPCReleaseTime="0.1"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Propeller" CustomSuffix="sa_ext_front" ConeHeading="0" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Propeller" CustomSuffix="sa_ext_side" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="1" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="1" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="1" WwiseEvent="Propeller" CustomSuffix="sa_ext_wash" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+	</Sound>
+
+	<!-- Engine 2 interior -->
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Combustion" CustomSuffix="sa_int" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Inside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position"        Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Propeller" CustomSuffix="sa_int" ConeHeading="0" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Inside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC LocalVar="XMLVAR_COPILOT_WINDOW_Position"        Units="PERCENT"         Index="0" RTPCName="SIMVAR_WINDOW_FRONT_RIGHT_OPEN"/>
+	</Sound>
+
+	<!-- Engine 2 exterior -->
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Combustion" CustomSuffix="sa_ext" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Combustion" CustomSuffix="sa_ext_exhaust" ConeHeading="180" ConePitch="-45" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+		<WwiseRTPC SimVar="GENERAL ENG THROTTLE LEVER POSITION"     Units="PERCENT"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_THROTTLE_LEVER_POSITION_DERIVED" Derived="true" RTPCAttackTime="0.4" RTPCReleaseTime="1.2"/>
+		<WwiseRTPC SimVar="PLANE ALT ABOVE GROUND"                  Units="FEET"            Index="0" RTPCName="SIMVAR_PLANE_ALT_ABOVE_GROUND" RTPCAttackTime="0.5" RTPCReleaseTime="0.1"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Propeller" CustomSuffix="sa_ext_front" ConeHeading="0" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Propeller" CustomSuffix="sa_ext_side" FadeOutType="2" FadeOutTime="0.2" RPMMin="575" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+		<WwiseRTPC SimVar="ENG TORQUE"                              Units="NEWTON METERS"   Index="2" RTPCName="SIMVAR_ENG_TORQUE_NM"/>
+		<WwiseRTPC SimVar="GENERAL ENG COMBUSTION"                  Units="BOOLEAN"         Index="2" RTPCName="SIMVAR_GENERAL_ENG_COMBUSTION" RTPCAttackTime="0.1" RTPCReleaseTime="0.5"/>
+	</Sound>
+	<Sound WwiseData="true" EngineIndex="2" WwiseEvent="Propeller" CustomSuffix="sa_ext_wash" ConeHeading="180" FadeOutType="2" FadeOutTime="0.2" ViewPoint="Outside">
+		<WwiseRTPC SimVar="AIRSPEED TRUE"                           Units="KNOTS"           Index="0" RTPCName="SIMVAR_AIRSPEED_TRUE"/>
+	</Sound>
+</EngineSoundPresets>
+
+<!--
+	//*===================================================================================================*\\
+	//*===================================================================================================*\\
+	//*=================================* END of SimAcoustics additions *=================================*\\
+	//*===================================================================================================*\\
+	//*===================================================================================================*\\
+-->
+
 <!-- AnimationSounds ####################################################################################-->  
 <AnimationSounds>
   
@@ -655,7 +678,5 @@
 	<Sound WwiseData="true" WwiseEvent="table_open" ViewPoint="Inside"/>
 	<Sound WwiseData="true" WwiseEvent="table_close" ViewPoint="Inside"/>
 	
-</AnimationSounds> 
-
-
+</AnimationSounds>
 </SoundInfo>
